@@ -1,0 +1,14 @@
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\bin\Debug\MovingRoaches.exe.config
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\bin\Debug\MovingRoaches.exe
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\bin\Debug\MovingRoaches.pdb
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.csprojAssemblyReference.cache
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.MainFrame.resources
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.Properties.Resources.resources
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.csproj.GenerateResource.cache
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.csproj.CoreCompileInputs.cache
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.exe
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.pdb
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\bin\Debug\MovingRoaches.exe.manifest
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\bin\Debug\MovingRoaches.application
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.exe.manifest
+C:\Users\stbargholz\source\repos\MovingRoaches\MovingRoaches\obj\Debug\MovingRoaches.application
